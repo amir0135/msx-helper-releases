@@ -10,6 +10,9 @@ Not sure which Mac? Apple menu → **About This Mac**: "Apple M…" = Apple Sili
 
 **First launch**
 - **Mac:** open the .dmg, drag MSX Helper to Applications, then right-click the app → **Open**.
-- **Windows:** if SmartScreen warns, click **More info** → **Run anyway**.
+- **Windows – browser warning** (Edge/Chrome: *"isn't commonly downloaded"* / *"may be unsafe"*): click **⋯** next to the download → **Keep** → **Show more** → **Keep anyway**.
+- **Windows – SmartScreen** (*"Windows protected your PC"*): click **More info** → **Run anyway**.
+
+These warnings appear because the app isn't signed with a paid code-signing certificate yet — not because anything is wrong with the file.
 
 The app updates itself automatically after that.
